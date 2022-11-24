@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>𝖧i {}, <b>What's upp? 🙌</b>
+    START_TXT = """<b>𝖧i {}, <b>Hey! 🙌</b>
 <b>𝖨'𝗆 an Autofilter bot that provides movies </b>
 
 <b> 𝗃𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝖺𝗌 𝖺𝖽𝗆𝗂n to get movies</b>
@@ -24,7 +24,7 @@ class script(object):
 - /stickerid - 𝖦𝖾𝗍 𝖨𝖣
 """
     ABOUT_TXT = """
-🔺 My name : Autofilter-bot
+🔺 My name : Slayersfilterbot
 🔺 Developed by : <a href='https://t.me/slayersTG'>TEAM SLAYERS</a>
 🔺 Written in : Python
 🔺 Library : Pyrogram
