@@ -25,7 +25,7 @@ class script(object):
 """
     ABOUT_TXT = """
 🔺 My name : Autofilter-bot
-🔺 Developed by : <a href='https://t.me/Astra_Botz'>Astra Botz</a>
+🔺 Developed by : <a href='https://t.me/slayersTG'>TEAM SLAYERS</a>
 🔺 Written in : Python
 🔺 Library : Pyrogram
 🔺 Deployed on : Heroku
@@ -37,7 +37,7 @@ class script(object):
 
 CODES:
 
-» https://github.com/Hackermanker/Autofilter-bot1
+» https://github.com/cxbxa/cobra
 """
     TTS_TXT = """<b>TEXT TO SPEACH</b>
 Simple Telegram Text-To-Speech Module.
